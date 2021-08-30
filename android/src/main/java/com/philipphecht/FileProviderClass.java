@@ -1,4 +1,6 @@
 package com.philipphecht;
 
-public class FileProviderClass extends android.support.v4.content.FileProvider {
+import androidx.core.content.FileProvider;
+
+public class FileProviderClass extends FileProvider {
 }
