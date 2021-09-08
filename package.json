@@ -21,8 +21,8 @@
   "author": "Philipp Hecht",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.3.0-alpha.1",
-    "react-native": "0.54.3",
+    "react": "16.13.1",
+    "react-native": "0.63.2",
     "react-native-fs":"^2.3.2",
     "react-native-doc-viewer": "2.7.8"
   },
